@@ -4,6 +4,6 @@
     <title>Consola de Neo</title>
   </head>
   <body>
-    <El contenido visible va aquí> 
+  <p>El contenido visible va aquí</p> 
  </body>
 </html>
